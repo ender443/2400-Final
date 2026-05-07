@@ -1,0 +1,12 @@
+TERRAFORM FOLDER CONTAINS:
+-dockerfile
+-dockerfile.bk
+-action.yaml
+-entrypoint.sh
+
+
+MORE FOLDERS TO ADD:
+*these are added to the main repo--not in an already existing folder*
+-stage1
+-stage2
+-stage3
